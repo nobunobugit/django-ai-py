@@ -6,3 +6,5 @@
 https://www.udemy.com/course/django-ai-app/learn/lecture/14722890#overview
 
 
+## pip用
+pip install  tensorflow
